@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:rotationX="30"
-        android:text="Hello World!"
+        android:text="madcamp"
         android:textAlignment="gravity"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
