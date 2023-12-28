@@ -12,6 +12,7 @@
         android:rotationX="30"
         android:text="madcamp"
         android:textAlignment="gravity"
+        android:textColor="@color/white"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
